@@ -5,20 +5,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <a-scene arjs='sourceType: webcam; debugUIEnabled: false'>
+          <a-anchor hit-testing-enabled="true">
+              <a-entity position='0 0 0' scale='0.05 0.05 0.05' rotation='200 0 0' obj-model='obj: url(models/dog.obj); mtl: url(models/dog.mtl)'></a-entity>
+          </a-anchor>
+          <a-camera-static preset="hiro" />
+      </a-scene>
     </div>
   );
 }
