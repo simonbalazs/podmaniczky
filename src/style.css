@@ -1,20 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong&display=swap');
+
 body {
-    margin : 0px; 
-    overflow: hidden;
+    margin : 0px !important; 
+    overflow: hidden !important;
 }
 
-#overlay {
+#about {
+    position: fixed;
+    top: 50px;
     background-color: white;
-    z-index: 1000;
-    width: 100%;
-    color: blue;
+    height: 100vh;
+    width: 100vw;
     text-align: center;
 }
 
-.wrapper {
-    margin: 0;
+#overlay {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    text-align: center;
+    font-family: 'Trirong', serif;
+    color: #272727;
+    font-size: 24px;
+    letter-spacing: 2px;
 }
 
-/* #ar {
-    pointer-events:none;
-} */
+#header {
+    background-color: white;
+    height: 50px;
+}
+
+#footer {
+    font-size: 12px;
+    position: fixed;
+    bottom: 50px;
+    width: 100%;
+}
+
+a:hover, a:visited {
+    color: #272727;
+}
