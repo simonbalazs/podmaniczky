@@ -6,13 +6,18 @@ const Overlay = (props) => {
     return (
     <div id="overlay">
         <div id="header" onClick={props.toggleInfo}>
-            <a>PODMANICZKY</a>
+            <h1>PODMANICZKY</h1>
         </div>
 
         {
             props.showAR &&
             <div id="footer">
-                <p>Tartsd a kamerát a QR kódra</p>
+                <div class="wrapper" onClick={props.toggleInfo}>
+                    <p>
+                        <strong>Tartsd a kamerát a QR kódra</strong><br />
+                        Mi ez? »
+                    </p>
+                </div>
             </div>
         }
     </div>
