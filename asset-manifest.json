@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/podmaniczky/static/css/main.0ce8690f.chunk.css",
-    "main.js": "/podmaniczky/static/js/main.2885a820.chunk.js",
-    "main.js.map": "/podmaniczky/static/js/main.2885a820.chunk.js.map",
+    "main.css": "/podmaniczky/static/css/main.f70c1ea6.chunk.css",
+    "main.js": "/podmaniczky/static/js/main.31886b13.chunk.js",
+    "main.js.map": "/podmaniczky/static/js/main.31886b13.chunk.js.map",
     "runtime-main.js": "/podmaniczky/static/js/runtime-main.bf5cc607.js",
     "runtime-main.js.map": "/podmaniczky/static/js/runtime-main.bf5cc607.js.map",
     "static/js/2.4092c558.chunk.js": "/podmaniczky/static/js/2.4092c558.chunk.js",
     "static/js/2.4092c558.chunk.js.map": "/podmaniczky/static/js/2.4092c558.chunk.js.map",
     "index.html": "/podmaniczky/index.html",
-    "precache-manifest.4b3a1163b8f47c2c8785551530b9fd23.js": "/podmaniczky/precache-manifest.4b3a1163b8f47c2c8785551530b9fd23.js",
+    "precache-manifest.a325e9523e18ed52fb40c2b4a12bb4cc.js": "/podmaniczky/precache-manifest.a325e9523e18ed52fb40c2b4a12bb4cc.js",
     "service-worker.js": "/podmaniczky/service-worker.js",
-    "static/css/main.0ce8690f.chunk.css.map": "/podmaniczky/static/css/main.0ce8690f.chunk.css.map",
+    "static/css/main.f70c1ea6.chunk.css.map": "/podmaniczky/static/css/main.f70c1ea6.chunk.css.map",
     "static/js/2.4092c558.chunk.js.LICENSE.txt": "/podmaniczky/static/js/2.4092c558.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf5cc607.js",
     "static/js/2.4092c558.chunk.js",
-    "static/css/main.0ce8690f.chunk.css",
-    "static/js/main.2885a820.chunk.js"
+    "static/css/main.f70c1ea6.chunk.css",
+    "static/js/main.31886b13.chunk.js"
   ]
 }

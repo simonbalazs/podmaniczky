@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1d7215b9b5ac14c81403247cac28aa3",
+    "revision": "f69f00cfa69eae3098053b4b84e26923",
     "url": "/podmaniczky/index.html"
   },
   {
-    "revision": "d5edd70f226f57ee2a80",
-    "url": "/podmaniczky/static/css/main.0ce8690f.chunk.css"
+    "revision": "26e4d15020ccb4012100",
+    "url": "/podmaniczky/static/css/main.f70c1ea6.chunk.css"
   },
   {
     "revision": "0c9ce15073232fda684a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/podmaniczky/static/js/2.4092c558.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5edd70f226f57ee2a80",
-    "url": "/podmaniczky/static/js/main.2885a820.chunk.js"
+    "revision": "26e4d15020ccb4012100",
+    "url": "/podmaniczky/static/js/main.31886b13.chunk.js"
   },
   {
     "revision": "c1f5b3fd165a72762bc9",
