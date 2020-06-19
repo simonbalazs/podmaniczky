@@ -43,8 +43,12 @@ body {
     border-radius: 5px;
 }
 
-a:hover, a:visited {
+a,a:hover a:visited {
+    font-family: 'Open Sans', sans-serif;
     color: #272727;
+}
+a:hover {
+    text-decoration: underline;
 }
 
 p {

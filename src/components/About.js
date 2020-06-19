@@ -4,21 +4,15 @@ import '../style.css';
 
 
 const md = `
-# H1 Heading
+# podmaniczky.live
 
-Enable typographer option to see result.
+A Podmaniczky Frigyes tér hosszú múltra, és rengeteg változásra tekint vissza. Ugyan a tér jelenlegi állapota ezeket nem tükrözi, de az 1940-es évekig a tér nem is létezett. A terület helyén egy épülettömb állt, mely a 20. század elején az Angol-Magyar Bank tulajdonában állt, a banki irodák mellett pedig megannyi üzletnek és lakásnak is otthont adott. A podmaniczky.live ezt az állapotot szeretné újra megmutatni, kiterjesztett valóság (AR) segítségével — az alkalmazás mind térben mind időben kiterjeszti a Podmaniczky Frigyes tér mai állapotát. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis dui sapien. Ut semper semper arcu ac luctus. Nulla a metus tortor. Praesent finibus suscipit lorem sed aliquam. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum venenatis libero, et elementum nulla ullamcorper non. Etiam consequat mollis rhoncus. In quis bibendum metus.
+A területen eredetileg álló épületek a 19. században épültek, majd a 2. világháborúban bombatalálatokat kaptak és megsemmisültek. Az épülettömb 1940-es utcaképe az 20. század elejére készült el, mikor az egész tömb az Angol-Magyar Bank tulajdonába került. A bombapusztítást követően a területet parkosították, majd csak az 1980-as években, az M3-as metró építésekor készült el az a tér, amely egészen a 2019-es átépítésig állt. A 2019-es felújítás a tér mai állapotát eredményezte, mely többek közt új zöldterületek és az ülőzónák kialakítását takarta.
 
-Etiam hendrerit sapien at est rhoncus, nec posuere velit hendrerit. Praesent rhoncus nisl eu orci elementum, et bibendum dolor laoreet. Etiam ex metus, ultrices quis ex a, porta molestie nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam semper sem leo, nec cursus metus pellentesque nec. Sed hendrerit nisl sit amet fermentum feugiat. Sed porttitor nisi porta erat dictum iaculis. Aenean laoreet nec lacus in tempus. Quisque aliquet consectetur nulla nec venenatis. Aenean arcu felis, varius ut dolor vitae, viverra vulputate est. Proin ut scelerisque massa, quis maximus magna.
-
-Donec eu efficitur lectus. Donec eu convallis urna. Aenean in mi ac ante dictum pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc interdum quam justo, non mattis enim pretium eget. Fusce tincidunt lacus in erat gravida iaculis. Nam eget venenatis eros, sed finibus risus. Sed ultrices lobortis ipsum, vel tincidunt lacus fermentum a. Quisque nec malesuada est.
-
-Morbi sed libero consequat, porta leo in, ullamcorper nulla. Morbi finibus mauris vel lacinia dignissim. Nam imperdiet, leo vel finibus cursus, tortor augue facilisis purus, sed semper nisl nibh a mauris. Duis lacinia ante tellus, eu porta diam ultricies in. Sed quis lobortis tortor. Vivamus sit amet felis in tellus sollicitudin suscipit a nec mauris. In placerat semper sapien, et condimentum diam ornare quis. Fusce ornare pulvinar est quis vehicula. Aliquam ultrices mollis urna et vestibulum. Nam auctor nibh purus. Maecenas sagittis dui in justo malesuada aliquet. Phasellus dictum ligula vel est cursus malesuada. Mauris venenatis iaculis velit at cursus.
-
-Aliquam iaculis, purus sed suscipit aliquet, nisl arcu consequat sem, quis gravida tortor lectus sit amet orci. In
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+# Források
+- [index.hu - Kántor Viola] (https://index.hu/kultur/epiteszet/2019/10/25/podmaniczky_ter_metroallomas_zoldfelulet_tajepiteszet_lipotvaros_csomopont/)
+- [24.hu - Vincze Miklós] (https://24.hu/kultura/2019/03/30/arany-janos-utca-bajcsy-zsilinszky-ut-ismeretlen-budapest/)
 `
 
 const About = (props) => (
